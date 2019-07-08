@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Моё резюме</title>
+    <meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div id="header">
+    <h1>Дарий Анжелика</h1>
+    <h3>Веб-разработчик</h3>
+  <p>
+  <a href="https://www.instagram.com/angelfeniks3/?hl=ru"></a>
+   </p>
+	</div>
+ <div id ="main">
+ <p>
+        Я увлекаюсь веб-дизайном со старших классов школы. Начинала с мини-сайтов для себя и друзей, потом для местных фирм и организаций. </p>
+
+      <p>
+        Готова к удаленной работе и релокации.
+      </p>
+
+      <div class="main_section">
+        <h2>Опыт работы</h2>
+
+        <div class="main_section_item">
+          <h3>Майкрософт </h3>
+          <p>Программист (стажировка), <i>апрель 2016 — ноябрь 2016</i></p>
+          <ul>
+            <li>Работа в команде на Java</li>
+            <li>Создание веб-сайта проекта JDX</li>
+          </ul>
+        </div>
+
+        <div class="main_section_item">
+          <h3>OАА «Дом молитвы»</h3>
+          <p>Веб-дизайн, <i>февраль 2019 — июль 2019</i></p>
+          <ul>
+            <li>Верстка макетов</li>
+            <li>Разработка тем </li>
+            <li>Поддержка сайта</li>
+		 </ul>
+        </div>
+      </div>
+
+      <div class="main_section">
+        <h2>Образование</h2>
+
+        <div class="main_section_item">
+          <h3>Одеский Национальний Экономический Университет</h3>
+          <p>Бакалавр экономическои-кибернетики, <i>2015 —  2019</i></p>
+        </div>
+        <div class="main_section_item">
+          <h3>Хекслет</h3>
+          <p>Курсы по программированию, JS Backend/Frontend, <i>2015 — 2017</i></p>
+        </div>
+      </div>
+
+      <div class="main_section">
+        <h2>Другие навыки и увлечения</h2>
+
+        <div class="main_section_item">
+          <ul>
+            <li>Основы дизайна и типографики</li>
+            <li>Люблю играть в коммпьютерные игры</li>
+            <li>Пишу стихи</li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+ </div>
+ <div id="footer">
+ <strong>Дарий Анжелика</strong>
+      <br/>
+      ул. А.Невского, 51а, Одесса, Украина +380684615286, <a href="mailto:ap@somemail.com">ap@somemail.com</a>
+ </div>
+  </body>
+</html>
